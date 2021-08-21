@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U1Y5jfzbOb6CFGzBp46669dCTLK5xL8U/YnRHJCHVOUVgisxvtV2Api4iPu+bEc0uG04K/NCfFIfpsO3Mu4o3A==",
+  "dgSpecHash": "k1xJwrks/mbhDuLlivDc02BDyUE4ZFemWZIyu2Wq77f+g1QsCtEhVZru3E+E4vfGbZ4un9RoQacSYGiuIeFiZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nazar\\source\\repos\\NetCoreAPIMySQL\\NetCoreAPIMySQL\\NetCoreAPIMySQL.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,10 @@
     "C:\\Users\\nazar\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\5.0.0\\microsoft.extensions.configuration.commandline.5.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
